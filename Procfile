@@ -1,2 +1,2 @@
-web: python3.6 -m IHbot
-worker: python3.6 -m IHbot
+web: python3 -m IHbot
+worker: python3 -m IHbot
